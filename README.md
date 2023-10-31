@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## I am a developer from India
+## Hi, I am a developer from India
 Started new to Github, would appreciate all the help recieve.
 
 - 🔭 I’m working on **3D Websites** using [Three.js](https://threejs.org/)
