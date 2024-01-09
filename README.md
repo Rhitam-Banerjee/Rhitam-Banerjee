@@ -157,5 +157,12 @@ Started new to Github, would appreciate all the help recieve.
           height="40"
         />
       </a>
+      <a href="https://socket.io/" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg"
+          alt="Socket.io"
+          height="40"
+        />
+      </a>
     </p>
 <!--     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rhitam-Banerjee&show_icons=true&locale=en" alt="Rhitam-Banerjee" /></p> -->
