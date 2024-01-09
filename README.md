@@ -164,5 +164,12 @@ Started new to Github, would appreciate all the help recieve.
           height="40"
         />
       </a>
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+          alt="GIT"
+          height="40"
+        />
+      </a>
     </p>
 <!--     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rhitam-Banerjee&show_icons=true&locale=en" alt="Rhitam-Banerjee" /></p> -->
