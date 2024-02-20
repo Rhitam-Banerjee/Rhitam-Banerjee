@@ -171,5 +171,35 @@ Started new to Github, would appreciate all the help recieve.
           height="40"
         />
       </a>
+      <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"
+          alt="FLASK"
+          height="40"
+        />
+      </a>
+      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"
+          alt="PostgreSQL"
+          height="40"
+        />
+      </a>
+      <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.sqlalchemy.org/img/sqla_logo.png"
+          alt="SQLAlchemy"
+          height="40"
+        />
+      </a>
+      <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+        <img
+          src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-mobile-en-white_48x29@2x.png"
+          alt="AWS"
+          height="40"
+            style="-webkit-filter: invert(100%);
+            filter: invert(100%) !important;"
+        />
+      </a>
     </p>
 <!--     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rhitam-Banerjee&show_icons=true&locale=en" alt="Rhitam-Banerjee" /></p> -->
